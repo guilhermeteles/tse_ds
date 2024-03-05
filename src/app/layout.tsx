@@ -24,7 +24,7 @@ const lexend = localFont({
 export const metadata: Metadata = {
   title: {
     template: '%s - Docs',
-    default: 'TSE Design System',
+    default: 'TSE | Design System',
   },
   description:
     'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
