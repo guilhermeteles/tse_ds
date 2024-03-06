@@ -9,7 +9,9 @@ export const navigation = [
   {
     title: 'Components',
     links: [
-      { title: 'Page Sections', href: '/docs/components-marketing-page-sections' },
+      {
+        title: 'Page Sections', href: '/docs/components-marketing-page-sections'
+      },
       { title: 'Elements', href: '/docs/components-marketing-elements' },
       { title: 'Feedback', href: '/docs/components-marketing-feedback' },
       { title: 'Page Examples', href: '/docs/components-marketing-page-examples' },

@@ -1,4 +1,4 @@
 {
-  "/docs/components-marketing-page-sections/page": "app/docs/components-marketing-page-sections/page.js",
-  "/page": "app/page.js"
+  "/not-found": "app/not-found.js",
+  "/docs/components-marketing-page-sections/page": "app/docs/components-marketing-page-sections/page.js"
 }
