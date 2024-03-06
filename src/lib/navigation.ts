@@ -1,56 +1,34 @@
 export const navigation = [
   {
-    title: 'Introduction',
+    title: 'Introdução',
     links: [
       { title: 'Getting started', href: '/' },
       { title: 'Installation', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Components',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Page Sections', href: '/docs/components-marketing-page-sections' },
+      { title: 'Elements', href: '/docs/components-marketing-elements' },
+      { title: 'Feedback', href: '/docs/components-marketing-feedback' },
+      { title: 'Page Examples', href: '/docs/components-marketing-page-examples' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Application UI',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
-    ],
-  },
-  {
-    title: 'API reference',
-    links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
-    ],
-  },
-  {
-    title: 'Contributing',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'Application Shells', href: '/docs/components-application-ui-application-shells' },
+      { title: 'Headings', href: '/docs/components-application-ui-headings' },
+      { title: 'Data Display', href: '/docs/components-application-ui-data-display' },
+      { title: 'Lists', href: '/docs/components-application-ui-lists' },
+      { title: 'Forms', href: '/docs/components-application-ui-forms' },
+      { title: 'Feedback', href: '/docs/components-application-ui-feedback' },
+      { title: 'Navigation', href: '/docs/components-application-ui-navigation' },
+      { title: 'Overlays', href: '/docs/components-application-ui-overlays' },
+      { title: 'Elements', href: '/docs/components-application-ui-elements' },
+      { title: 'Layout', href: '/docs/components-application-ui-layout' },
+      { title: 'Page Examples', href: '/docs/components-application-ui-page-examples' },
     ],
   },
 ]
