@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     default: 'TSE | Design System',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'Design System do TSE.',
 }
 
 export default function RootLayout({

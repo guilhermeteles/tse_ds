@@ -1,24 +1,4 @@
 {
-  "/docs/architecture-guide/page": "app/docs/architecture-guide/page.js",
-  "/docs/cacheadvance-flush/page": "app/docs/cacheadvance-flush/page.js",
-  "/docs/cacheadvance-predict/page": "app/docs/cacheadvance-predict/page.js",
-  "/_not-found": "app/_not-found.js",
-  "/docs/compile-time-caching/page": "app/docs/compile-time-caching/page.js",
-  "/docs/cacheadvance-revert/page": "app/docs/cacheadvance-revert/page.js",
-  "/docs/design-principles/page": "app/docs/design-principles/page.js",
-  "/docs/how-to-contribute/page": "app/docs/how-to-contribute/page.js",
   "/docs/installation/page": "app/docs/installation/page.js",
-  "/docs/basics-of-time-travel/page": "app/docs/basics-of-time-travel/page.js",
-  "/docs/cacheadvance-regret/page": "app/docs/cacheadvance-regret/page.js",
-  "/docs/neuralink-integration/page": "app/docs/neuralink-integration/page.js",
-  "/docs/predictive-data-generation/page": "app/docs/predictive-data-generation/page.js",
-  "/docs/introduction-to-string-theory/page": "app/docs/introduction-to-string-theory/page.js",
-  "/docs/the-butterfly-effect/page": "app/docs/the-butterfly-effect/page.js",
-  "/docs/understanding-caching/page": "app/docs/understanding-caching/page.js",
-  "/page": "app/page.js",
-  "/docs/predicting-user-behavior/page": "app/docs/predicting-user-behavior/page.js",
-  "/docs/testing/page": "app/docs/testing/page.js",
-  "/docs/temporal-paradoxes/page": "app/docs/temporal-paradoxes/page.js",
-  "/docs/writing-plugins/page": "app/docs/writing-plugins/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/page": "app/page.js"
 }
